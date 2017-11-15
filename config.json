@@ -1,0 +1,19 @@
+{
+    "cognitive_atlas_task_id": "trm_5667492c555b7",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/columbia-card-task-cold",
+    "contributors": [
+        "Jamie Li",
+        "Ian Eisenberg",
+        "Zeynep Enkavi",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "columbia-card-task-cold",
+    "name": "Columbia Card Task Cold Version",
+    "reference": ["http://psycnet.apa.org/journals/xlm/35/3/709.pdf"],
+    "template": "jspsych",
+    "time": 15
+}
